@@ -3,6 +3,10 @@ github.com/golang/protobuf v1.5.3 h1:KhyjKVUg7Usr/dYsdSqoFveMYd5ko72D+zANwlG1mmg
 github.com/golang/protobuf v1.5.3/go.mod h1:XVQd3VNwM+JqD3oG2Ue2ip4fOMUkwXdXDdiuN0vRsmY=
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
+github.com/google/go-cmp v0.5.6 h1:BKbKCqvP6I+rmFHt06ZmyQtvB8xAkWdhFyr0ZUNZcxQ=
+github.com/google/go-cmp v0.5.6/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/opencl-go/cl30 v0.0.0-20220816204328-0c662948d557 h1:RIh/1HOGa6lV/sdSuGkaDvb9+Pz8RPm6SHREyb2KEbo=
 github.com/opencl-go/cl30 v0.0.0-20220816204328-0c662948d557/go.mod h1:mM7GyaZg0UgkJexase2ACg+MoItX0oRYaDiRHZC4PPI=
 github.com/opencl-go/simulator-client v0.0.0-20220914195811-7c665f4e415c h1:V3wOaaEcLJx/eaDA3nuZgkp1CGjp/HWEhIEPqBnjq1Y=
